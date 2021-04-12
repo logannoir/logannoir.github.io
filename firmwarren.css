@@ -1,4 +1,4 @@
-.firwa {background: url(https://i.imgur.com/JvnSfrm.png); width: 450px; height: 175px;}
+.firwa {width: 450px; height: 175px;}
 .firwa > li {display: block; height: 125px; width: 125px; background: black; float: left; transform: rotate(45deg); margin: 20px; border: darkgreen solid 5px; box-shadow: 0 0 0 5px white; overflow: hidden;}
 .firwa > li span {display: block; margin-top: -27px; margin-left: -27px; padding: 0; width: 180px; height: 180px; transform: rotate(-45deg); background-position: center; background-color: green; background-blend-mode: multiply;}
 .firwa .poke {text-align: right; margin-top: 160px; position: absolute; margin-left: 140px;}
